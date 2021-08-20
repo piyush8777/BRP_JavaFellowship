@@ -1,3 +1,14 @@
+/**
+ * **************************************************************************************
+ * Purpose:Write a LeapYear.java program that takes a year as input and outputs the Year
+ *  is a Leap Year or not a Leap Year.
+ *                       
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 14-07-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day1;
 
 public class LeapYear {

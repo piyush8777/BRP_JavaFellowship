@@ -1,3 +1,15 @@
+/**
+ * **************************************************************************************
+ * Purpose:Write a IntOpt.java program by taking a, b and c as input values and print the
+ *  following integer operations a + b *c, a * b + c, c + a / b, and a % b + c. Please
+ *  also understand the precedence of the operators.
+ *                       
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 15-07-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day2;
 
 import java.util.Scanner;

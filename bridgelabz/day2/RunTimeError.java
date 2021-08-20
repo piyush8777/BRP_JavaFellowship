@@ -1,3 +1,13 @@
+/**
+ * **************************************************************************************
+ * Purpose:Write a program to produce runtime error java.lang.NoSuchMethodError
+ *                       
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 15-07-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day2;
 
 public class RunTimeError {

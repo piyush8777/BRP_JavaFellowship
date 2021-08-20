@@ -1,3 +1,15 @@
+/**
+ * **************************************************************************************
+ * Purpose:Write a DoubleOpt.java program by taking a, b and c as input values and print the
+ * following integer operations a + b *c, a * b + c, c + a / b, and a % b + c. Please
+ * also understand the precedence of the operators
+ *                       
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 15-07-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day2;
 
 import java.util.Scanner;
@@ -6,6 +18,7 @@ public class DoubleOpt {
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Double a,b,c,num1,num2,num3,num4,result;
+        //Taking input from the user
         System.out.println("Enter Value of a , b , c :");
 
         a = sc.nextDouble();

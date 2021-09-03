@@ -12,7 +12,7 @@ package com.bridgelabz.day8;
 
 import java.util.Scanner;
 
-import Util.Utility;
+import com.bridgelabz.day8.util.Utility;
 
 public class Palindrome {
 	public static void main(String args[])

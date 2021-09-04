@@ -35,6 +35,16 @@ public interface StdOut {
 		
 	}
 
+	static void print(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	static void println() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 		
 	}

@@ -1,3 +1,13 @@
+/**
+ * **************************************************************************************
+ * Purpose:Code to to Binary Search the Word from Word List
+ * 
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 28-08-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day13;
 
 import java.util.Arrays;

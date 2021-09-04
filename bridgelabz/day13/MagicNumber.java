@@ -1,3 +1,14 @@
+/**
+ * **************************************************************************************
+ * Purpose:Code to do Binary Search of Integers and then Question to find your number
+ *  (Magic Number)
+ * 
+ * @author Piyush Shaw
+ * @version 1.0
+ * @since 28-08-2021
+ * ***************************************************************************************
+ */
+
 package com.bridgelabz.day13;
 
 import java.util.Scanner;

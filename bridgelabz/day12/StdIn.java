@@ -1,5 +1,3 @@
-package com.bridgelabz.day12;
-
 /**
  * **************************************************************************************
  * Purpose:Code to provide static methods for reading strings and numbers from standard 
@@ -10,6 +8,8 @@ package com.bridgelabz.day12;
  * @since 27-08-2021
  * ***************************************************************************************
  */
+
+package com.bridgelabz.day12;
 
 import java.util.Scanner;
 
@@ -29,6 +29,21 @@ public class StdIn {
 	        System.out.println("integer = " + num + "string = " + "'" + str + "'");
 	        sc.close(); // close scanner
 	    }
+
+	public String readAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public static boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public static String readString() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	
 

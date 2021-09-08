@@ -42,9 +42,9 @@ public class PrimePalindrome {
             num = num / 10;
         }
         if (temp == reverse) {
-            System.out.println("number is palindrom number ");
+            System.out.println("number is palindrome number ");
         } else {
-            System.out.println("number is not  palindrom number ");
+            System.out.println("number is not  palindrome number ");
         }
     }
 

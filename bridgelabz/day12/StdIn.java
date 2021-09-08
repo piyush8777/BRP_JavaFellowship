@@ -30,7 +30,7 @@ public class StdIn {
 	        sc.close(); // close scanner
 	    }
 
-	public String readAll() {
+	public static String readAll() {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -41,6 +41,13 @@ public class StdIn {
 	}
 
 	public static String readString() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+	public static String[] readAllStrings() {
 		// TODO Auto-generated method stub
 		return null;
 	}
